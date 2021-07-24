@@ -1,7 +1,8 @@
 import styles from "../../styles/Home.module.css";
 import React from "react";
 import Menu from "../../components/Menu/Menu";
-import Footer from "../..components/Footer/Footer";
+import Footer from "../../components/Footer/Footer";
+
 
 const index = () => {
   return (
