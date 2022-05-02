@@ -1,16 +1,12 @@
-import Head from "next/head";
 import Footer from "../Menu/Footer";
-import Menu from "../Menu/Menu";
+import Menubar from "../Menu/Menubar";
 
 const Layout = ({ children }) => {
   return (
     <>
-    <Head>
-    </Head>
-      <Menu />
+      <Menubar />
       {children}
       <Footer />
-      
     </>
   );
 };

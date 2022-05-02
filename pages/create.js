@@ -1,7 +1,7 @@
 
 const Create = () => {
     return (
-        <div>
+        <div className="bg-danger">
             create
         </div>
     );

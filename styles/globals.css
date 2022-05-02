@@ -1,0 +1,12 @@
+.logo{
+  border-radius: 50%;
+}
+
+a{
+  color:white !important;
+  font-size: 17px !important;
+}
+
+.link:hover{
+  text-decoration: underline;
+}
